@@ -95,12 +95,12 @@
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Location = new System.Drawing.Point(21, 27);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(789, 21);
+            this.comboBox1.Size = new System.Drawing.Size(1008, 21);
             this.comboBox1.TabIndex = 1;
             // 
             // buttonIr
             // 
-            this.buttonIr.Location = new System.Drawing.Point(825, 27);
+            this.buttonIr.Location = new System.Drawing.Point(1035, 27);
             this.buttonIr.Name = "buttonIr";
             this.buttonIr.Size = new System.Drawing.Size(75, 23);
             this.buttonIr.TabIndex = 2;
@@ -113,7 +113,7 @@
             this.webBrowser1.Location = new System.Drawing.Point(21, 72);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(881, 494);
+            this.webBrowser1.Size = new System.Drawing.Size(1089, 494);
             this.webBrowser1.TabIndex = 3;
             // 
             // Form1
